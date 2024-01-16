@@ -1,0 +1,23 @@
+header {
+    background-color: black;
+    color: white;
+    h1 {
+        color: indigo;
+    }
+}
+
+body {
+    background-color: rgb(109, 110, 116);
+    color: white;
+    ul {
+        color: indigo;
+    }
+}
+
+footer {
+    background-color: rgb(97, 97, 97);
+    color: white;
+    h3 {
+        color: indigo;
+    }
+}
